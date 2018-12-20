@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "126050581932",
+    "firebase_url": "https://guevarajameslab8-c7390.firebaseio.com",
+    "project_id": "guevarajameslab8-c7390",
+    "storage_bucket": "guevarajameslab8-c7390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126050581932:android:2cdb6a87738ca77a",
+        "android_client_info": {
+          "package_name": "com.guevara.james"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126050581932-19egbajca016f4tdqolb86cbkufh9hrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guevara.james",
+            "certificate_hash": "f9b11c29d1637bc768bbb8877aa3e8bc85bc3982"
+          }
+        },
+        {
+          "client_id": "126050581932-4ga3p51mb4mp5pi1qbfb286ojs2908je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA4XGlpm5JL5DYOXteq_P0jgQ7jw8NDDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126050581932-4ga3p51mb4mp5pi1qbfb286ojs2908je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
